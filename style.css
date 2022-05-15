@@ -211,6 +211,18 @@ header {
     color:antiquewhite;
 }
 
+#beleriand-map {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    max-width:100%;
+}
+
+#visit-link {
+    text-decoration: none;
+    color:antiquewhite;
+}
+
 /* footer */
 #dragon-logo {
     max-width:100%;
